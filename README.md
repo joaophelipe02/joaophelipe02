@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, sou o João Phelipe👋
 
-<!--
-**joaophelipe02/joaophelipe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Designer Grafico
 
-Here are some ideas to get you started:
+## Soft Kills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hard Kills
+
+
+<div style = "display:inline_block">
+  <img src = "https://github.com/user-attachments/assets/b3f53246-9c14-4ba0-a488-0971269d2003" width = "40"/>
+  <img src = "https://github.com/user-attachments/assets/77ec0f21-5e21-45e9-a2c7-5574e0a28610" width = "40"/>
+  <img src = "https://github.com/user-attachments/assets/897845ce-bdbc-4bf9-bc7a-af730f34cebd" width = "40"/>
+  <img src = "https://github.com/user-attachments/assets/15a0e547-878e-4d19-89da-151aa22e9f04" width = "40"/>
+  <img src = "https://github.com/user-attachments/assets/6f09d90b-b12f-49e0-8319-9c2cfdf39549" width = "40"/>
+</div>
